@@ -25,6 +25,7 @@ addTravelKeyword('ankrahmun', 150, Position(33092, 32883, 6))
 addTravelKeyword('yalahar', 210, Position(32816, 31272, 6), function(player) return player:getStorageValue(Storage.SearoutesAroundYalahar.Darashia) ~= 1 and player:getStorageValue(Storage.SearoutesAroundYalahar.TownsCounter) < 5 end)
 addTravelKeyword('gray island', 160, Position(33196, 31984, 7))
 addTravelKeyword('krailos', 200, Position(33493, 31712, 6))
+addTravelKeyword('issavi', 130, Position(33923, 31455, 6))
 
 -- Kick
 keywordHandler:addKeyword({'kick'}, StdModule.kick, {npcHandler = npcHandler, destination = {Position(33288, 32474, 6), Position(33291, 32474, 6), Position(33293, 32471, 6)}})

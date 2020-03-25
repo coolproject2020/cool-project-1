@@ -1263,4 +1263,7 @@
 	<instant name="arachnophobicawaveenergy" words="###468" direction="1" selftarget="1" exhaustion="2000" needlearn="1"  script="monster/arachnophobica waveenergy.lua" />
 	<instant name="pixie skill reducer" words="###469" blockwalls="1" aggressive="1" needtarget="0" exhaustion="2000" needlearn="1"  script="monster/pixie skill reducer.lua" />
 	<instant name="Ice Crystal Bomb" words="###470"  direction="1" selftarget="1" exhaustion="2000" needlearn="1"  script="monster/ice_crystal_bomb.lua"/>
+	<instant name="faceless exori" words="###471"  selftarget="1" exhaustion="2000" needlearn="1"  script="monster/facelessexori.lua"/>
+	<instant name="faceless mort" words="###472"  selftarget="1" exhaustion="2000" needlearn="1"  script="monster/facelesmort.lua"/>
+	<instant name="faceless beam" words="###472" direction="1" selftarget="1" exhaustion="2000" needlearn="1"  script="monster/facelesbeam.lua"/>
 	</spells>

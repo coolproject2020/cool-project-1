@@ -4,9 +4,14 @@
 	<!-- Autoloot mode 2 -->
 	<action actionid="500" script="autoloot.lua" />
 	
-	<!-- Addons -->
-	<action itemid="36909" script="addon_doll.lua"/>
-	<action itemid="36910" script="mount_doll.lua"/>
+	<!-- Gold -->
+	<action itemid="2148" script="changegold.lua" />
+	<action itemid="2152" script="changegold.lua" />
+	<action itemid="2160" script="changegold.lua" />
+	
+	<!-- dolls -->
+	<action itemid="36909" script="addon_doll.lua" />
+	<action itemid="36910" script="mount_doll.lua" />
 	
 	<!-- Addons -->
 	<action fromid="18517" toid="18522" script="addons/addons.lua" />
@@ -871,9 +876,7 @@
 	<action itemid="2549" script="tools/rake.lua" />
 	<action itemid="2550" script="tools/scythe.lua" />
 	<action itemid="2580" script="tools/fishing.lua" allowfaruse="1" />
-
 	<action itemid="10223" script="tools/fish2.lua" allowfaruse="1" />
-
 	<action itemid="5710" script="tools/shovel.lua" />
 	<action itemid="2554" script="tools/shovel.lua" />
 	<action itemid="2120" script="tools/rope.lua" />
@@ -886,7 +889,6 @@
 	<action itemid="10513" script="tools/toolgear.lua" />
 	<action itemid="10515" script="tools/toolgear.lua" />
 	<action itemid="10309" script="tools/noxiousclaw.lua" />
-
 	<action itemid="2405" script="tools/sickle.lua" />
 
 	<!-- Increase/Decrease ItemId -->

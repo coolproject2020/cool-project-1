@@ -854,7 +854,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Arena_Champion_Male_Addon_3.png", "Outfit_Arena_Champion_Female_Addon_3.png" },
 			name = "Full Arena Champion Outfit",
-			price = 870,
+			price = 50,
 			sexId = {female = 885, male = 884},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nFight your bloody battles in the arena and become a darling of the crowd. Once you have made it to the top and everyone is cheering your name, the fashionable outfit of an Arena Champion will show the world what you are made of.",
@@ -863,7 +863,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Beastmaster_Male_Addon_3.png", "Outfit_Beastmaster_Female_Addon_3.png" },
 			name = "Full Beastmaster Outfit",
-			price = 870,
+			price = 50,
 			sexId = {female = 636, male = 637},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nDo you have enough authority to make wild animals subservient to you? Become a Beastmaster and surround yourself with fearsome companions. When your beasts bare their teeth, your enemies will turn tails and run.",
@@ -872,7 +872,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Breezy_Garb_Male_Addon_3.png", "Outfit_Breezy_Garb_Female_Addon_3.png" },
 			name = "Full Breezy Garb Outfit",
-			price = 600,
+			price = 50,
 			sexId = {female = 1246, male = 1245},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nEven the most eager adventurers and toughest warriors need some time to rest and recharge. Enjoy tranquility and peace as you picnic in good company at one of your favourite places in Tibia. Put on your Breezy Garb outfit, grab your walking stick, a basket filled with tasty snacks and then head out into nature!",
@@ -881,7 +881,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Ceremonial_Garb_Male_Addon_3.png", "Outfit_Ceremonial_Garb_Female_Addon_3.png" },
 			name = "Full Ceremonial Garb Outfit",
-			price = 750,
+			price = 50,
 			sexId = {female = 694, male = 695},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nIf you want to make a great entrance at a Tibian costume party, the Ceremonial Garb is certainly a good choice. With a drum over your shoulder and adorned with feathers you are perfectly dressed to lead a carnival parade through the streets of Thais.",
@@ -890,7 +890,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Champion_Male_Addon_3.png", "Outfit_Champion_Female_Addon_3.png" },
 			name = "Full Champion Outfit",
-			price = 570,
+			price = 50,
 			sexId = {female = 632, male = 633},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nProtect your body with heavy armour plates and spiky bones to teach your enemies the meaning of fear! The Champion outfit perfectly suits battle-hardened warriors who rely on their trusty sword and shield.",
@@ -899,7 +899,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Chaos_Acolyte_Male_Addon_3.png", "Outfit_Chaos_Acolyte_Female_Addon_3.png" },
 			name = "Full Chaos Acolyte Outfit",
-			price = 900,
+			price = 50,
 			sexId = {female = 664, male = 665},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nYou have always felt like the cat among the pigeons and have a fable for dark magic? The Chaos Acolyte outfit is a perfect way to express your inner nature. Show your commitment for the higher cause and wreak havoc on your enemies in this unique outfit.",
@@ -908,7 +908,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Conjurer_Male_Addon_3.png", "Outfit_Conjurer_Female_Addon_3.png" },
 			name = "Full Conjurer Outfit",
-			price = 750,
+			price = 50,
 			sexId = {female = 635, male = 634},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nYou recently graduated from the Magic Academy and want to bring your knowledge to good use? Congratulations, you are now an honourable disciple of magic! Open up a bottle of well-aged mana and treat yourself with the fashionable Conjurer outfit.",
@@ -917,7 +917,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Death_Herald_Male_Addon_3.png", "Outfit_Death_Herald_Female_Addon_3.png" },
 			name = "Full Death Herald Outfit",
-			price = 600,
+			price = 50,
 			sexId = {female = 666, male = 667},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nYDeath and decay are your ever-present companions? Your enemies are dropping like flies and your path is covered with their bodies? However, as decency demands, you want to at least give them a proper funeral? Then the Death Herald is just the right outfit for you.",
@@ -926,7 +926,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Entrepreneur_Male_Addon_3.png", "Outfit_Entrepreneur_Female_Addon_3.png" },
 			name = "Full Entrepreneur Outfit",
-			price = 750,
+			price = 50,
 			sexId = {female = 471, male = 472},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nSlaughter through hordes of monsters during your early morning hunt and kiss the hand of Queen Eloise later on at the evening reception in her historical residence. With the Entrepreneur outfit you will cut a fine figure on every occasion.",
@@ -935,7 +935,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Evoker_Male_Addon_3.png", "Outfit_Evoker_Female_Addon_3.png" },
 			name = "Full Evoker Outfit",
-			price = 840,
+			price = 50,
 			sexId = {female = 724, male = 725},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nDance around flickering fires in the Evoker outfit while singing unholy chants to praise witchcraft and wizardry. Your faithful bat will always be by your side.",
@@ -944,7 +944,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Grove_Keeper_Male_Addon_3.png", "Outfit_Grove_Keeper_Female_Addon_3.png" },
 			name = "Full Groove Keeper Outfit",
-			price = 870,
+			price = 50,
 			sexId = {female = 909, male = 908},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nFeeling the springy grass under your feet and inhaling the spicy air of the forest is pure satisfaction for your soul? Every animal is your friend and you caringly look after trees and plants all the time? Then it is time to become one with nature: Become a Grove Keeper!",
@@ -953,7 +953,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Guidon_Bearer_Male_Addon_3.png", "Outfit_Guidon_Bearer_Female_Addon_3.png" },
 			name = "Full Guidon Bearer Outfit",
-			price = 870,
+			price = 50,
 			sexId = {female = 1187, male = 1186},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nCarrying the guidon of a unit, always marching in front, is not only an honour but also comes with great responsibility. Guidon bearers wield great power, they lead where others follow and keep the spirits of the troops up as they wave their flag against the golden suns of Tibia.",
@@ -962,7 +962,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Herbalist_Male_Addon_3.png", "Outfit_Herbalist_Female_Addon_3.png" },
 			name = "Full Herbalist Outfit",
-			price = 750,
+			price = 50,
 			sexId = {female = 1020, male = 1021},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nThe Herbalist outfit is the perfect outfit for all herbs collectors. Those of you who are aware that you do not necessarily have to reach into the mouth of a hydra to get a hydra tongue and those who know exactly where to get blood- and shadow-herbs will find a matching outfit for their daily hobby. Show the world your affinity for herbs and impress your friends with your knowledge of medicine and potions.",
@@ -971,7 +971,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Herder_Male_Addon_3.png", "Outfit_Herder_Female_Addon_3.png" },
 			name = "Full Herder Outfit",
-			price = 750,
+			price = 50,
 			sexId = {female = 1280, male = 1279},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nThe Herder is one with nature, being outside all day, watching carefully over his flock. If you like to spend time on picturesque meadows and are always looking for greener pastures, then this outfit is for you.",
@@ -980,7 +980,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Lupine_Warden_Male_Addon_3.png", "Outfit_Lupine_Warden_Female_Addon_3.png" },
 			name = "Full Lupine Warden Outfit",
-			price = 840,
+			price = 50,
 			sexId = {female = 900,  male = 899},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nDo you feel the adrenaline rushing through your veins when the sun goes down and a full moon lightens the night? Do you have the urge to hunt down your target no matter what? Unleash the beast inside of you and lead your friends to battle with the Lupine Warden outfit!",
@@ -989,7 +989,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Mercenary_Male_Addon_3.png", "Outfit_Mercenary_Female_Addon_3.png" },
 			name = "Full Mercenary Outfit",
-			price = 870,
+			price = 50,
 			sexId = {female = 1057,	male = 1056},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nThe Mercenary carries a powerful, razor-sharp axe on his shoulders that effortlessly cuts through any armour and bone. You should better tell your friends to keep a safe distance, since heads will roll over the blood-soaked battleground after a powerful swing of yours.\nConsidering the sheer size of this axe, it might even be possible to chop onions without shedding a tear.",
@@ -998,7 +998,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Owl_Keeper_Male_Addon_3.png", "Outfit_Owl_Keeper_Female_Addon_3.png" },
 			name = "Full Owl Keeper Outfit",
-			price = 600,
+			price = 50,
 			sexId = {female = 1074,  male = 1073},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nOwl Keepers are often referred to as spirits walking through the forest at night, mere shadows during the day. They are also said to be shamans, protecting the flora and fauna of the Tibian lands. You often see them wearing a stag's antlers on their head and in the company of an owl, for they are as wise and mysterious as these intriguing creatures.",
@@ -1007,7 +1007,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Pharaoh_Male_Addon_3.png", "Outfit_Pharaoh_Female_Addon_3.png" },
 			name = "Full Pharaoh Outfit",
-			price = 750,
+			price = 50,
 			sexId = {female = 956,  male = 955},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nYou know how to read hieroglyphs? You admire the exceptional architectural abilities and the unsolved mysteries of an ancient high culture? Next time you pay a visit to your friends, tell them to prepare a bathtub full of milk and honey for you because a Pharaoh is now walking through the streets of Ankrahmun!",
@@ -1016,7 +1016,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Philosopher_Male_Addon_3.png", "Outfit_Philosopher_Female_Addon_3.png" },
 			name = "Full Philosopher Outfit",
-			price = 750,
+			price = 50,
 			sexId = {female = 874,  male = 873},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nDo you feel the urge to tell people what is really going on in the world? Do you know all answers to the important questions of life? Are you a true philosopher? Then dress like one to showcase the latest fashion for all wise theorists.",
@@ -1025,7 +1025,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Pumpkin_Mummy_Male_Addon_3.png", "Outfit_Pumpkin_Mummy_Female_Addon_3.png" },
 			name = "Full Pumpkin Mummy Outfit",
-			price = 870,
+			price = 50,
 			sexId = {female = 1128,  male = 1127},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nIf you cannot decide whether to wrap yourself up as a mummy or flaunt an enormous pumpkin head for your next hunting party, why not combine both? The Pumpkin Mummy outfit is the perfect costume for scary nights and spooky days.",
@@ -1034,7 +1034,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Puppeteer_Male_Addon_3.png", "Outfit_Puppeteer_Female_Addon_3.png" },
 			name = "Full Puppeteer Outfit",
-			price = 870,
+			price = 50,
 			sexId = {female = 696, male = 697},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nAre you a fan of puppetry? You like to travel the world together with one or two little acting fellows? Or are you simply the one who likes to pull the strings? Then the Puppeteer outfit is the right choice for you.",
@@ -1043,7 +1043,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Ranger_Male_Addon_3.png", "Outfit_Ranger_Female_Addon_3.png" },
 			name = "Full Ranger Outfit",
-			price = 750,
+			price = 50,
 			sexId = {female = 683,  male = 684},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nMost of the day, the Ranger is looking over his forest. He is taking care of all animals and plants and tries to keep everything in balance. Intruders are greeted by a warning shot from his deadly longbow. It is the perfect outfit for Paladins who live in close touch with nature.",
@@ -1052,7 +1052,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Royal_Pumpkin_Male_Addon_3.png", "Outfit_Royal_Pumpkin_Female_Addon_3.png" },
 			name = "Full Royal Pumpkin Outfit",
-			price = 840,
+			price = 50,
 			sexId = {male= 760, female= 759},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nThe mutated pumpkin is too weak for your mighty weapons? Time to show that evil vegetable how to scare the living daylight out of people! Put on a scary looking pumpkin on your head and spread terror and fear amongst the Tibian population.",
@@ -1061,7 +1061,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Sea_Dog_Male_Addon_3.png", "Outfit_Sea_Dog_Female_Addon_3.png" },
 			name = "Full Sea Dog Outfit",
-			price = 600,
+			price = 50,
 			sexId = {female = 749,  male = 750},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nAhoy mateys! Flaunt the swashbuckling Sea Dog outfit and strike a pose with your hook to impress both landlubbers and fellow pirates. Board your next ship in style!",
@@ -1070,7 +1070,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Seaweaver_Male_Addon_3.png", "Outfit_Seaweaver_Female_Addon_3.png" },
 			name = "Full Seaweaver Outfit",
-			price = 570,
+			price = 50,
 			sexId = {female = 732,  male = 733},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nThe Seaweaver outfit is the perfect choice if you want to show the world that you are indeed a son or a daughter of the submarine kingdom. You can almost feel the salty taste and the rough wind of the sea when wearing it.",
@@ -1079,7 +1079,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Siege_Master_Male_Addon_3.png", "Outfit_Siege_Master_Female_Addon_3.png" },
 			name = "Full Siege Master Outfit",
-			price = 600,
+			price = 50,
 			sexId = {female = 1050,  male = 1051},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nNeither thick stone walls nor heavily armoured gates can stop the Siege Master, who brings down hostile fortifications in the blink of an eye. Whenever he tenses his muscular arms to lift the powerful battering ram, his enemies' knees begin to buckle. It is the perfect outfit for those who also stand for brute strength and immense destruction.",
@@ -1088,7 +1088,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Sinister_Archer_Male_Addon_3.png", "Outfit_Sinister_Archer_Female_Addon_3.png" },
 			name = "Full Sinister Archer Outfit",
-			price = 120,
+			price = 50,
 			sexId = {female = 1103,  male = 1102},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nFrom an early age, the Sinister Archer has been fascinated by people's dark machinations and perversions. Sinister Archers claim that they advocate the good and that they only use their arrows to pierce the hearts of those who have committed many crimes and misdeeds. However, they are still viewed by the public with much suspicion due to their dubious appearance. To keep their identity secret, they often hide themselves behind a skull-like face guard that can easily withstand even axe and club blows.",
@@ -1097,7 +1097,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Spirit_Caller_Male_Addon_3.png", "Outfit_Spirit_Caller_Female_Addon_3.png" },
 			name = "Full Spirit Caller Outfit",
-			price = 600,
+			price = 50,
 			sexId = {female = 698, male = 699},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nYou are in love with the deep soul of Mother Earth and prefer to walk in the shadows of her wooden children? Choose the Spirit Caller outfit to live in harmony with nature.",
@@ -1106,7 +1106,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Sun_Priest_Male_Addon_3.png", "Outfit_Sun_Priest_Female_Addon_3.png" },
 			name = "Full Sun Priest Outfit",
-			price = 750,
+			price = 50,
 			sexId = {female = 1024, male = 1023},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nDo you worship warm temperatures and are opposed to the thought of long and dark winter nights? Do you refuse to spend countless evenings in front of your chimney while ice-cold wind whistles through the cracks and niches of your house? It is time to stop freezing and to become an honourable Sun Priest! With this stylish outfit, you can finally show the world your unconditional dedication and commitment to the sun!",
@@ -1115,7 +1115,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Trophy_Hunter_Male_Addon_3.png", "Outfit_Trophy_Hunter_Female_Addon_3.png" },
 			name = "Full Trophy Hunter Outfit",
-			price = 870,
+			price = 50,
 			sexId = {female = 900, male = 899},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nYou spend hours in the woods in search of wild and rare animals? Countless stuffed skulls of deer, wolves and other creatures are decorating your walls? Now you have the chance to present your trophies in public. Become a Trophy Hunter and cover your shoulders with the finest bear skulls!",
@@ -1124,7 +1124,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Winter_Warden_Male_Addon_3.png", "Outfit_Winter_Warden_Female_Addon_3.png" },
 			name = "Full Winter Warden Outfit",
-			price = 870,
+			price = 50,
 			sexId = {female = 852,  male = 853},
 			addon = 3,
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n- includes basic outfit and 2 addons which can be selected individually\n\nThe warm and cosy cloak of the Winter Warden outfit will keep you warm in every situation. Best thing, it is not only comfortable but fashionable as well. You will be the envy of any snow queen or king, guaranteed!",
@@ -1133,7 +1133,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Retro_Citizen_Male.png", "Outfit_Retro_Citizen_Female.png" },
 			name = "Retro Citizen",
-			price = 870,
+			price = 50,
 			sexId = {female = 975,  male = 974},
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n\nDo you still remember your first stroll through the streets of Thais? For old times' sake, walk the paths of Nostalgia as a Retro Citizen!",
 			type = GameStore.OfferTypes.OFFER_TYPE_OUTFIT,
@@ -1141,7 +1141,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Retro_Hunter_Male.png", "Outfit_Retro_Hunter_Female.png" },
 			name = "Retro Hunter",
-			price = 870,
+			price = 50,
 			sexId = {female = 973,  male = 972},
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n\nWhenever you pick up your bow and spears, you walk down memory lane and think of your early days? Treat yourself with the fashionable Retro Hunter outfit and hunt some good old monsters from your childhood.",
 			type = GameStore.OfferTypes.OFFER_TYPE_OUTFIT,
@@ -1149,7 +1149,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Retro_Knight_Male.png", "Outfit_Retro_Knight_Female.png" },
 			name = "Retro Knight",
-			price = 870,
+			price = 50,
 			sexId = {female = 971,  male = 970},
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n\nWho needs a fancy looking sword with bling-bling and ornaments? Back in the days, we survived without such unnecessary accessories! Time to show those younkers what a Retro Knight is made of.",
 			type = GameStore.OfferTypes.OFFER_TYPE_OUTFIT,
@@ -1157,7 +1157,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Retro_Mage_Male.png", "Outfit_Retro_Mage_Female.png" },
 			name = "Retro Wizzard",
-			price = 870,
+			price = 50,
 			sexId = {female = 969, male = 968},
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n\nDress up as a Retro Mage and you will always cut a fine figure on the battleground while eliminating your enemies with your magical powers the old-fashioned way.",
 			type = GameStore.OfferTypes.OFFER_TYPE_OUTFIT,
@@ -1165,7 +1165,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Retro_Nobleman_Male.png", "Outfit_Retro_Nobleman_Female.png" },
 			name = "Retro Noblewoman",
-			price = 870,
+			price = 50,
 			sexId = { female = 967, male = 966},
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n\nKing Tibianus has invited you to a summer ball and you have nothing to wear for this special event? Do not worry, the Retro Noble(wo)man outfit makes you a real eye catcher on every festive occasion.",
 			type = GameStore.OfferTypes.OFFER_TYPE_OUTFIT,
@@ -1173,7 +1173,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Retro_Summoner_Male.png", "Outfit_Retro_Summoner_Female.png" },
 			name = "Retro Summoner",
-			price = 870,
+			price = 50,
 			sexId = {female = 965, male = 964},
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n\nWhile the Retro Mage usually throws runes and mighty spells directly at the enemies, the Retro Summoner outfit might be the better choice for Tibians that prefer to send mighty summons to the battlefield to keep their enemies at distance.",
 			type = GameStore.OfferTypes.OFFER_TYPE_OUTFIT,
@@ -1181,7 +1181,7 @@ GameStore.Categories = {
 		{
 			icons = { "Outfit_Retro_Warrior_Male.png", "Outfit_Retro_Warrior_Female.png" },
 			name = "Retro Warrior",
-			price = 870,
+			price = 50,
 			sexId = {female = 963, male = 962},
 			description = "- only usable by purchasing character\n- colours can be changed using the Outfit dialog\n\nYou are fearless and strong as a behemoth but have problems finding the right outfit for your adventures? The Retro Warrior outfit is a must-have for all fashion-conscious old-school Tibians out there.",
 			type = GameStore.OfferTypes.OFFER_TYPE_OUTFIT,
